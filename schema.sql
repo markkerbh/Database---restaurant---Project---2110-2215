@@ -158,8 +158,4 @@ INSERT INTO combo (item_id, sub_item_id, amount) VALUES
 (8, 10, 1);
 
 
-select *
-from 	customer
-
-
 
